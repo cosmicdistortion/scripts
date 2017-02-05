@@ -1,5 +1,5 @@
 
-declare @Value nvarchar(255) = '%nfr%'
+DECLARE @Value nvarchar(255) = 'The value we are looking for'
 
  
 DECLARE @TablesFound TABLE(
